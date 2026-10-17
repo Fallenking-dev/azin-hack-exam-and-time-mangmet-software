@@ -1,0 +1,6 @@
+{
+  "name": "USICT CampusScheduler: Real-Time Dynamic Timetable & Exam Seating Engine",
+  "description": "Dynamic Timetable Engine, real-time conflict resolver, anti-cheating exam seating matrix, invigilation duty allocator, and syllabus OCR parser for USICT GGSIPU Dwarka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
